@@ -32,8 +32,8 @@ Here are some of the projects I'm proud of:
 
 Feel free to reach out to me through the following channels:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedInProfile-blue)](https://www.linkedin.com/in/vitor-azevedo-180999161/)
-[![Email](https://img.shields.io/badge/Email-YourEmailAddress-blue)](mailto:vitor.azevedo009@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VitorAzevedoSilva-blue)](https://www.linkedin.com/in/vitor-azevedo-180999161/)
+[![Email](https://img.shields.io/badge/Email-vitor.azvedo009@gmail.com-blue)](mailto:vitor.azevedo009@gmail.com)
 
 
 Thanks for visiting my profile! 😊
