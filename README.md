@@ -6,6 +6,14 @@ I'm a really enthusiastic person. I like to learn new things, so I'm always lear
 
 Welcome to my GitHub profile! 
 
+## Connect with Me
+
+<div>
+<a href="https://www.linkedin.com/in/vitor-azevedo-180999161/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://instagram.com/fitor09" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@vitor.azevedo009@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
+
 #### Main
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -56,14 +64,6 @@ Here are some of the projects I'm proud of:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorAzevedo09&show_icons=true&count_private=true)
 
 Feel free to explore my repositories to see more of my work!
-
-## Connect with Me
-
-<div>
-<a href="https://www.linkedin.com/in/vitor-azevedo-180999161/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://instagram.com/fitor09" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@vitor.azevedo009@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
 
 <br>
 Let's collaborate and create something amazing together! 😄
