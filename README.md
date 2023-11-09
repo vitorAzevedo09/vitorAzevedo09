@@ -54,10 +54,10 @@ Welcome to my GitHub profile!
 
 Here are some of the projects I'm proud of:
 
-- [EducomML](https://educomml.web.app): A Django/Vue project made for help as interface for a doctorate thesis.
+- [EducomML](https://github.com/MtheusWilliam/EducomML_Back): A Django/Vue project made for help as interface for a doctorate thesis.
 - [Flasede](https://github.com/vitorAzevedo09/flasede-api): A FastAPI Rest project made for serve as backend for the system administration of football supporters' club.
 - [MWStore](https://github.com/mwmodaesportiva/mwmodaesportiva_ecommerce): A webstore made in NextJS as a collaborative project with a friend. It's just a simple website that will display the products on storage and their price, with filters and a admin pannel to update the base. _Still in progress_.
-- [ElzaPharmacy](https://github.com/vitorAzevedo09/pharmacy-system): A pharmaxy system backend made for help my mother in law, wok in progress. 
+- [ElzaPharmacy](https://github.com/vitorAzevedo09/pharmacy-system): A pharmacy system backend made for help my mother in law, work in progress. 
 
 ## My GitHub Stats
 
