@@ -29,23 +29,24 @@ Welcome to my GitHub profile!
 #### Learning
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## About Me
 
 - 🔭 I’m currently working on some projects to build up my portifolio.
-- 🌱 I’m currently learning/getting better at Springboot, Golang, Javascript/Typescript.
-- 💬 I'm really confident about my knowledge in Java, Python, Mysql, DDD.
+- 🌱 I’m currently learning/getting better at Springboot, Vue, Golang, Javascript/Typescript.
+- 💬 I'm really confident about my knowledge in Java, Vue, Python, Mysql, DDD.
 - 📫 How to reach me: vitor.azevedo009@gmail.com.
 - 😄 Pronouns: He/Him.
 
 ## My Skills
 
-- 💻 Programming Languages: Python, JavaScript/TypeScript.
-- 🛠️ Technologies: Django, Spring, MySql, Golang, FastAPI, Docker, Linux, Git, VIM.
+- 💻 Programming Languages: Python, JavaScript/TypeScript, Java, Golang.
+- 🛠️ Technologies: Vue, Django, Spring, MySql, Golang, FastAPI, Docker, Linux, Git, VIM.
 - 🧩 Other Skills: Intermediate English, DDD, TDD, Advanced Algorithms, proactive,
-                  responsible, communicative, curious, social, intrepid. .
+                  responsible, communicative, curious, social, intrepid.
 
 ## Top Languages
 
@@ -55,7 +56,10 @@ Welcome to my GitHub profile!
 
 Here are some of the projects I'm proud of:
 
-- [EducomML](https://github.com/MtheusWilliam/EducomML_Back): A Django/Vue project made for help as interface for a doctorate thesis.
+- [EducomML Backend](https://github.com/MtheusWilliam/EducomML_Back): A Django/Vue project made for help as interface for a doctorate thesis.
+- [EducomML Frontend](https://github.com/MtheusWilliam/EducomML_Front): A Django/Vue project made for help as interface for a doctorate thesis.
+- [RotasJR](https://rotasjr-968ad.web.app/): A landing page institutional for a RotasJr company.
+- [Ubiz - Dashboard](https://ubiz-ed737.web.app/): A website admin administration for the Ubiz company.
 - [Flasede](https://github.com/vitorAzevedo09/flasede-api): A FastAPI Rest project made for serve as backend for the system administration of football supporters' club.
 - [MWStore](https://github.com/mwmodaesportiva/mwmodaesportiva_ecommerce): A webstore made in NextJS as a collaborative project with a friend. It's just a simple website that will display the products on storage and their price, with filters and a admin pannel to update the base. _Still in progress_.
 - [ElzaPharmacy](https://github.com/vitorAzevedo09/pharmacy-system): A pharmacy system backend made for help my mother in law, work in progress. 
