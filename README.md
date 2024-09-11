@@ -1,6 +1,6 @@
 # Hi there, I'm Vitor! 👋
 
-I'm **Vitor Silva**, a passionate back-end developer (Spring Boot, Django and Golang) and AI enthusiast from Brazil. I graduated in Computer Science in 2023 with a final paper themed around Explained AI. I can communicate in english, so we can chat, an also talk about common topics between us!
+I'm **Vitor Azevedo**, a passionate back-end developer (Spring Boot, Django and Golang) and AI enthusiast from Brazil. I graduated in Computer Science in 2023 with a final paper themed around Explained AI. I can communicate in english, so we can chat, an also talk about common topics between us!
 
 I'm a really enthusiastic person. I like to learn new things, so I'm always learning and practicing solving real world problems around me.
 
